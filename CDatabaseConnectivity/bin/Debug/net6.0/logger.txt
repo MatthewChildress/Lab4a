@@ -1,0 +1,173 @@
+9/4/2022 11:13:26 AM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/4/2022 11:13:26 AM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/4/2022 11:13:26 AM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/4/2022 11:13:26 AM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/4/2022 11:13:26 AM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/4/2022 11:13:26 AM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/4/2022 11:13:26 AM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/4/2022 11:13:26 AM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/4/2022 11:13:27 AM :: Duplicate entry 'Testing 1' for key 'Title'
+9/4/2022 11:13:27 AM :: Duplicate entry 'Testing 1' for key 'Title'
+9/4/2022 11:13:27 AM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/4/2022 11:13:27 AM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/4/2022 11:13:27 AM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/4/2022 11:13:27 AM :: Value cannot be null. (Parameter 'GUID can not be null')
+9/4/2022 11:13:27 AM :: Value cannot be null. (Parameter 'Rating number may not be null')
+9/4/2022 11:13:27 AM :: Value cannot be null. (Parameter 'ArticleID can not be null')
+9/4/2022 11:13:27 AM :: Duplicate entry '1-a9fe9735-8aa3-4d5b-80c5-6dae8db89b28' for key 'PRIMARY'
+9/4/2022 11:13:27 AM :: Duplicate entry '1-a9fe9735-8aa3-4d5b-80c5-6dae8db89b28' for key 'PRIMARY'
+9/4/2022 11:13:27 AM :: Value cannot be null. (Parameter 'Rating can not be null.')
+9/4/2022 11:13:27 AM :: Value cannot be null. (Parameter 'Rating can not be null.')
+9/4/2022 11:13:27 AM :: Value cannot be null. (Parameter 'Rating can not be null.')
+9/4/2022 12:08:23 PM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/4/2022 12:08:23 PM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/4/2022 12:08:23 PM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/4/2022 12:08:23 PM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/4/2022 12:08:23 PM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/4/2022 12:08:23 PM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/4/2022 12:08:23 PM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/4/2022 12:08:23 PM :: Duplicate entry 'Testing 1' for key 'Title'
+9/4/2022 12:08:23 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/4/2022 12:08:23 PM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/4/2022 12:08:23 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/4/2022 12:08:23 PM :: Value cannot be null. (Parameter 'GUID can not be null')
+9/5/2022 9:52:16 AM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/5/2022 9:52:16 AM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/5/2022 9:52:16 AM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/5/2022 9:52:16 AM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/5/2022 9:52:16 AM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/5/2022 9:52:16 AM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/5/2022 9:52:16 AM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/5/2022 9:52:16 AM :: Duplicate entry 'Testing 1' for key 'Title'
+9/5/2022 9:52:16 AM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/5/2022 9:52:16 AM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/5/2022 9:52:16 AM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/5/2022 9:52:16 AM :: Value cannot be null. (Parameter 'GUID can not be null')
+9/5/2022 9:53:54 AM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/5/2022 9:53:54 AM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/5/2022 9:53:54 AM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/5/2022 9:53:54 AM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/5/2022 9:53:54 AM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/5/2022 9:53:54 AM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/5/2022 9:53:54 AM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/5/2022 9:53:54 AM :: Duplicate entry 'Testing 1' for key 'Title'
+9/5/2022 9:53:54 AM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/5/2022 9:53:54 AM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/5/2022 9:53:54 AM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/5/2022 9:53:54 AM :: Value cannot be null. (Parameter 'GUID can not be null')
+9/5/2022 9:55:17 AM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/5/2022 9:55:17 AM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/5/2022 9:55:17 AM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/5/2022 9:55:17 AM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/5/2022 9:55:17 AM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/5/2022 9:55:17 AM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/5/2022 9:55:17 AM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/5/2022 9:55:17 AM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/5/2022 9:55:17 AM :: Duplicate entry 'Testing 1' for key 'Title'
+9/5/2022 9:55:17 AM :: Duplicate entry 'Testing 1' for key 'Title'
+9/5/2022 9:55:17 AM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/5/2022 9:55:17 AM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/5/2022 9:55:17 AM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/5/2022 9:55:17 AM :: Value cannot be null. (Parameter 'GUID can not be null')
+9/5/2022 9:58:13 AM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/5/2022 9:58:13 AM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/5/2022 9:58:13 AM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/5/2022 9:58:13 AM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/5/2022 9:58:13 AM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/5/2022 9:58:13 AM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/5/2022 9:58:13 AM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/5/2022 9:58:13 AM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/5/2022 9:58:13 AM :: Duplicate entry 'Testing 1' for key 'Title'
+9/5/2022 9:58:14 AM :: Duplicate entry 'Testing 1' for key 'Title'
+9/5/2022 9:58:14 AM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/5/2022 9:58:14 AM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/5/2022 9:58:14 AM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/5/2022 9:58:14 AM :: Value cannot be null. (Parameter 'GUID can not be null')
+9/5/2022 9:59:19 AM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/5/2022 9:59:19 AM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/5/2022 9:59:19 AM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/5/2022 9:59:19 AM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/5/2022 9:59:19 AM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/5/2022 9:59:19 AM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/5/2022 9:59:19 AM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/5/2022 9:59:19 AM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/5/2022 9:59:19 AM :: Duplicate entry 'Testing 1' for key 'Title'
+9/5/2022 9:59:20 AM :: Duplicate entry 'Testing 1' for key 'Title'
+9/5/2022 9:59:20 AM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/5/2022 9:59:20 AM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/5/2022 9:59:20 AM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/5/2022 9:59:20 AM :: Value cannot be null. (Parameter 'GUID can not be null')
+9/27/2022 3:33:44 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:33:47 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:33:47 PM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/27/2022 3:33:49 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:33:51 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:33:51 PM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/27/2022 3:33:53 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:33:55 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:33:57 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:33:59 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:33:59 PM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/27/2022 3:34:01 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:34:03 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:34:03 PM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/27/2022 3:34:06 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:34:08 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:34:54 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:34:56 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:34:56 PM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/27/2022 3:34:58 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:35:00 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:35:00 PM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/27/2022 3:35:02 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:35:05 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:35:07 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:35:09 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:35:09 PM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/27/2022 3:35:11 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:35:14 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:35:14 PM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/27/2022 3:35:16 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:35:19 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:35:21 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:35:21 PM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/27/2022 3:35:23 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:35:23 PM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/27/2022 3:35:25 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:35:27 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:35:27 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 3:35:29 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:35:31 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:35:31 PM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/27/2022 3:35:33 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:35:35 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:35:35 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 3:39:32 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:39:34 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:39:34 PM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/27/2022 3:39:36 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:39:38 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:39:38 PM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/27/2022 3:39:40 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:39:42 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:39:44 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:39:46 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:39:46 PM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/27/2022 3:39:48 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:39:50 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:39:50 PM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/27/2022 3:39:52 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:39:54 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:39:56 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:39:56 PM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/27/2022 3:39:58 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:39:58 PM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/27/2022 3:40:00 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:40:02 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:40:02 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 3:40:04 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:40:06 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:40:06 PM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/27/2022 3:40:08 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:40:10 PM :: Unable to connect to any of the specified MySQL hosts.
+9/27/2022 3:40:10 PM :: Value cannot be null. (Parameter 'New article can not be null.')

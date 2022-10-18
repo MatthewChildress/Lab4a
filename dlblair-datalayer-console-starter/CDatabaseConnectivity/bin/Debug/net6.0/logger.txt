@@ -1,0 +1,265 @@
+9/27/2022 10:04:47 PM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/27/2022 10:04:47 PM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/27/2022 10:04:47 PM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/27/2022 10:04:47 PM :: Parameter 'GUID' not found in the collection.
+9/27/2022 10:04:47 PM :: Parameter 'GUID' not found in the collection.
+9/27/2022 10:04:47 PM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/27/2022 10:04:47 PM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/27/2022 10:04:47 PM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/27/2022 10:04:47 PM :: Duplicate entry 'Testing 1' for key 'Title'
+9/27/2022 10:04:47 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:04:47 PM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/27/2022 10:04:47 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:04:47 PM :: Value cannot be null. (Parameter 'GUID can not be null')
+9/27/2022 10:04:47 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:04:47 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:04:47 PM :: Duplicate entry '1-a9fe9735-8aa3-4d5b-80c5-6dae8db89b28' for key 'PRIMARY'
+9/27/2022 10:04:47 PM :: Value cannot be null. (Parameter 'New rating can not be null.')
+9/27/2022 10:04:47 PM :: Value cannot be null. (Parameter 'Rating can not be null.')
+9/27/2022 10:04:47 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:06:12 PM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/27/2022 10:06:12 PM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/27/2022 10:06:12 PM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/27/2022 10:08:33 PM :: Parameter 'GUID' not found in the collection.
+9/27/2022 10:10:05 PM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/27/2022 10:10:05 PM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/27/2022 10:10:05 PM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/27/2022 10:10:05 PM :: Parameter 'GUID' not found in the collection.
+9/27/2022 10:10:05 PM :: Parameter 'GUID' not found in the collection.
+9/27/2022 10:10:05 PM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/27/2022 10:10:05 PM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/27/2022 10:10:05 PM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/27/2022 10:10:05 PM :: Duplicate entry 'Testing 1' for key 'Title'
+9/27/2022 10:10:05 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:10:05 PM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/27/2022 10:10:05 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:10:05 PM :: Value cannot be null. (Parameter 'GUID can not be null')
+9/27/2022 10:10:05 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:10:05 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:10:05 PM :: Duplicate entry '1-a9fe9735-8aa3-4d5b-80c5-6dae8db89b28' for key 'PRIMARY'
+9/27/2022 10:10:05 PM :: Value cannot be null. (Parameter 'New rating can not be null.')
+9/27/2022 10:10:05 PM :: Value cannot be null. (Parameter 'Rating can not be null.')
+9/27/2022 10:10:05 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:13:19 PM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/27/2022 10:13:19 PM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/27/2022 10:13:19 PM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/27/2022 10:13:19 PM :: Parameter 'GUID' not found in the collection.
+9/27/2022 10:13:19 PM :: Parameter 'GUID' not found in the collection.
+9/27/2022 10:13:19 PM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/27/2022 10:13:19 PM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/27/2022 10:13:19 PM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/27/2022 10:13:19 PM :: Duplicate entry 'Testing 1' for key 'Title'
+9/27/2022 10:13:19 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:13:19 PM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/27/2022 10:13:19 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:13:19 PM :: Value cannot be null. (Parameter 'GUID can not be null')
+9/27/2022 10:13:19 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:13:19 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:13:19 PM :: Duplicate entry '1-a9fe9735-8aa3-4d5b-80c5-6dae8db89b28' for key 'PRIMARY'
+9/27/2022 10:13:19 PM :: Value cannot be null. (Parameter 'New rating can not be null.')
+9/27/2022 10:13:19 PM :: Value cannot be null. (Parameter 'Rating can not be null.')
+9/27/2022 10:13:19 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:15:09 PM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/27/2022 10:15:09 PM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/27/2022 10:15:09 PM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/27/2022 10:15:09 PM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/27/2022 10:15:09 PM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/27/2022 10:15:09 PM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/27/2022 10:15:09 PM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/27/2022 10:15:09 PM :: Duplicate entry 'Testing 1' for key 'Title'
+9/27/2022 10:15:09 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:15:09 PM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/27/2022 10:15:09 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:15:09 PM :: Value cannot be null. (Parameter 'GUID can not be null')
+9/27/2022 10:15:09 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:15:09 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:15:09 PM :: Duplicate entry '1-a9fe9735-8aa3-4d5b-80c5-6dae8db89b28' for key 'PRIMARY'
+9/27/2022 10:15:09 PM :: Value cannot be null. (Parameter 'New rating can not be null.')
+9/27/2022 10:15:09 PM :: Value cannot be null. (Parameter 'Rating can not be null.')
+9/27/2022 10:15:09 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:16:17 PM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/27/2022 10:16:17 PM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/27/2022 10:16:17 PM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/27/2022 10:16:17 PM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/27/2022 10:16:17 PM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/27/2022 10:16:17 PM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/27/2022 10:16:17 PM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/27/2022 10:16:17 PM :: Duplicate entry 'Testing 1' for key 'Title'
+9/27/2022 10:16:17 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:16:17 PM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/27/2022 10:16:17 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:16:17 PM :: Value cannot be null. (Parameter 'GUID can not be null')
+9/27/2022 10:16:17 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:16:17 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:16:17 PM :: Duplicate entry '1-a9fe9735-8aa3-4d5b-80c5-6dae8db89b28' for key 'PRIMARY'
+9/27/2022 10:16:17 PM :: Value cannot be null. (Parameter 'New rating can not be null.')
+9/27/2022 10:16:17 PM :: Value cannot be null. (Parameter 'Rating can not be null.')
+9/27/2022 10:16:17 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:19:00 PM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/27/2022 10:19:00 PM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/27/2022 10:19:00 PM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/27/2022 10:19:00 PM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/27/2022 10:19:00 PM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/27/2022 10:19:00 PM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/27/2022 10:19:00 PM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/27/2022 10:19:00 PM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/27/2022 10:19:00 PM :: Duplicate entry 'Testing 1' for key 'Title'
+9/27/2022 10:19:00 PM :: Duplicate entry 'Testing 1' for key 'Title'
+9/27/2022 10:19:00 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:19:00 PM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/27/2022 10:19:00 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:19:00 PM :: Value cannot be null. (Parameter 'GUID can not be null')
+9/27/2022 10:19:00 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:19:00 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:19:00 PM :: Duplicate entry '1-a9fe9735-8aa3-4d5b-80c5-6dae8db89b28' for key 'PRIMARY'
+9/27/2022 10:19:00 PM :: Value cannot be null. (Parameter 'New rating can not be null.')
+9/27/2022 10:19:00 PM :: Value cannot be null. (Parameter 'Rating can not be null.')
+9/27/2022 10:19:00 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:19:11 PM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/27/2022 10:19:11 PM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/27/2022 10:19:11 PM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/27/2022 10:19:11 PM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/27/2022 10:19:11 PM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/27/2022 10:19:11 PM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/27/2022 10:19:11 PM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/27/2022 10:19:11 PM :: Duplicate entry 'Testing 1' for key 'Title'
+9/27/2022 10:19:11 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:19:11 PM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/27/2022 10:19:11 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:19:11 PM :: Value cannot be null. (Parameter 'GUID can not be null')
+9/27/2022 10:19:11 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:19:11 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:19:11 PM :: Duplicate entry '1-a9fe9735-8aa3-4d5b-80c5-6dae8db89b28' for key 'PRIMARY'
+9/27/2022 10:19:11 PM :: Value cannot be null. (Parameter 'New rating can not be null.')
+9/27/2022 10:19:11 PM :: Value cannot be null. (Parameter 'Rating can not be null.')
+9/27/2022 10:19:11 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:19:37 PM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/27/2022 10:19:37 PM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/27/2022 10:19:37 PM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/27/2022 10:19:37 PM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/27/2022 10:19:37 PM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/27/2022 10:19:37 PM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/27/2022 10:19:37 PM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/27/2022 10:19:37 PM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/27/2022 10:19:37 PM :: Duplicate entry 'Testing 1' for key 'Title'
+9/27/2022 10:19:37 PM :: Duplicate entry 'Testing 1' for key 'Title'
+9/27/2022 10:19:37 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:19:37 PM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/27/2022 10:19:37 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:19:37 PM :: Value cannot be null. (Parameter 'GUID can not be null')
+9/27/2022 10:19:37 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:19:37 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:19:37 PM :: Duplicate entry '1-a9fe9735-8aa3-4d5b-80c5-6dae8db89b28' for key 'PRIMARY'
+9/27/2022 10:19:37 PM :: Value cannot be null. (Parameter 'New rating can not be null.')
+9/27/2022 10:19:37 PM :: Value cannot be null. (Parameter 'Rating can not be null.')
+9/27/2022 10:19:37 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:19:44 PM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/27/2022 10:19:44 PM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/27/2022 10:19:44 PM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/27/2022 10:19:44 PM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/27/2022 10:19:44 PM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/27/2022 10:19:44 PM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/27/2022 10:19:44 PM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/27/2022 10:19:44 PM :: Duplicate entry 'Testing 1' for key 'Title'
+9/27/2022 10:19:44 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:19:44 PM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/27/2022 10:19:44 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:19:44 PM :: Value cannot be null. (Parameter 'GUID can not be null')
+9/27/2022 10:19:44 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:19:44 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:19:44 PM :: Duplicate entry '1-a9fe9735-8aa3-4d5b-80c5-6dae8db89b28' for key 'PRIMARY'
+9/27/2022 10:19:44 PM :: Value cannot be null. (Parameter 'New rating can not be null.')
+9/27/2022 10:19:44 PM :: Value cannot be null. (Parameter 'Rating can not be null.')
+9/27/2022 10:19:45 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:20:50 PM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/27/2022 10:20:50 PM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/27/2022 10:20:50 PM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/27/2022 10:20:50 PM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/27/2022 10:20:50 PM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/27/2022 10:20:50 PM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/27/2022 10:20:50 PM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/27/2022 10:20:50 PM :: Duplicate entry 'Testing 1' for key 'Title'
+9/27/2022 10:20:50 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:20:50 PM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/27/2022 10:20:50 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:20:50 PM :: Value cannot be null. (Parameter 'GUID can not be null')
+9/27/2022 10:20:50 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:20:50 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:20:50 PM :: Duplicate entry '1-a9fe9735-8aa3-4d5b-80c5-6dae8db89b28' for key 'PRIMARY'
+9/27/2022 10:20:50 PM :: Value cannot be null. (Parameter 'New rating can not be null.')
+9/27/2022 10:20:50 PM :: Value cannot be null. (Parameter 'Rating can not be null.')
+9/27/2022 10:20:50 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:21:47 PM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/27/2022 10:21:47 PM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/27/2022 10:21:47 PM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/27/2022 10:21:47 PM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/27/2022 10:21:47 PM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/27/2022 10:21:47 PM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/27/2022 10:21:47 PM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/27/2022 10:21:47 PM :: Duplicate entry 'Testing 1' for key 'Title'
+9/27/2022 10:21:47 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:21:47 PM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/27/2022 10:21:47 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:21:47 PM :: Value cannot be null. (Parameter 'GUID can not be null')
+9/27/2022 10:21:47 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:21:47 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:21:47 PM :: Duplicate entry '1-a9fe9735-8aa3-4d5b-80c5-6dae8db89b28' for key 'PRIMARY'
+9/27/2022 10:21:47 PM :: Value cannot be null. (Parameter 'New rating can not be null.')
+9/27/2022 10:21:47 PM :: Value cannot be null. (Parameter 'Rating can not be null.')
+9/27/2022 10:21:47 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:22:43 PM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/27/2022 10:22:43 PM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/27/2022 10:22:43 PM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/27/2022 10:22:43 PM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/27/2022 10:22:43 PM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/27/2022 10:22:43 PM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/27/2022 10:22:43 PM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/27/2022 10:22:43 PM :: Duplicate entry 'Testing 1' for key 'Title'
+9/27/2022 10:22:43 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:22:43 PM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/27/2022 10:22:43 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:22:43 PM :: Value cannot be null. (Parameter 'GUID can not be null')
+9/27/2022 10:22:43 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:22:43 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:22:43 PM :: Duplicate entry '1-a9fe9735-8aa3-4d5b-80c5-6dae8db89b28' for key 'PRIMARY'
+9/27/2022 10:22:43 PM :: Value cannot be null. (Parameter 'New rating can not be null.')
+9/27/2022 10:22:43 PM :: Value cannot be null. (Parameter 'Rating can not be null.')
+9/27/2022 10:22:43 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:23:29 PM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/27/2022 10:23:29 PM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/27/2022 10:23:30 PM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/27/2022 10:23:30 PM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/27/2022 10:23:30 PM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/27/2022 10:23:30 PM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/27/2022 10:23:30 PM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/27/2022 10:23:30 PM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/27/2022 10:23:30 PM :: Duplicate entry 'Testing 1' for key 'Title'
+9/27/2022 10:23:30 PM :: Duplicate entry 'Testing 1' for key 'Title'
+9/27/2022 10:23:30 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:23:30 PM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/27/2022 10:23:30 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:23:30 PM :: Value cannot be null. (Parameter 'GUID can not be null')
+9/27/2022 10:23:30 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:23:30 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:23:30 PM :: Duplicate entry '1-a9fe9735-8aa3-4d5b-80c5-6dae8db89b28' for key 'PRIMARY'
+9/27/2022 10:23:30 PM :: Value cannot be null. (Parameter 'New rating can not be null.')
+9/27/2022 10:23:30 PM :: Value cannot be null. (Parameter 'Rating can not be null.')
+9/27/2022 10:23:30 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:23:42 PM :: Value cannot be null. (Parameter 'GUID can not be null.')
+9/27/2022 10:23:42 PM :: Value cannot be null. (Parameter 'Username or Password can not be null.')
+9/27/2022 10:23:42 PM :: Value cannot be null. (Parameter 'GUID and State can not be null.')
+9/27/2022 10:23:42 PM :: Duplicate entry 'jpen@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90f...' for key 'PRIMARY'
+9/27/2022 10:23:42 PM :: Value cannot be null. (Parameter 'New user can not be null.')
+9/27/2022 10:23:42 PM :: Value cannot be null. (Parameter 'Article ID can not be null.')
+9/27/2022 10:23:42 PM :: Value cannot be null. (Parameter 'The Article data can not be null')
+9/27/2022 10:23:42 PM :: Duplicate entry 'Testing 1' for key 'Title'
+9/27/2022 10:23:42 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:23:42 PM :: Value cannot be null. (Parameter 'Article can not be null.')
+9/27/2022 10:23:42 PM :: Value cannot be null. (Parameter 'New article can not be null.')
+9/27/2022 10:23:42 PM :: Value cannot be null. (Parameter 'GUID can not be null')
+9/27/2022 10:23:42 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:23:42 PM :: Value cannot be null. (Parameter 'rating can not be null')
+9/27/2022 10:23:42 PM :: Duplicate entry '1-a9fe9735-8aa3-4d5b-80c5-6dae8db89b28' for key 'PRIMARY'
+9/27/2022 10:23:42 PM :: Value cannot be null. (Parameter 'New rating can not be null.')
+9/27/2022 10:23:42 PM :: Value cannot be null. (Parameter 'Rating can not be null.')
+9/27/2022 10:23:42 PM :: Value cannot be null. (Parameter 'New article can not be null.')
